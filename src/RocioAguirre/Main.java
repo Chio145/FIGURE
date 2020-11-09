@@ -9,8 +9,8 @@ public class Main {
         double f1 = 0, f2 = 0, f3 = 0, f4= 0;
         int f5;
         double t=0;
-        System.out.println("\t Bienvenid@ Usuario!" +
-                "\n Selecciona una Figura"+"\n 1- Cuadrado"+
+        System.out.println("\t !Bienvenid@ Usuario!" +
+                "\n Selecciona una Figura:"+"\n 1- Cuadrado"+
                 "\n 2- Triángulo"+ "\n 3- Círculo"+
                 "\n 4- Trapecio");
         System.out.println("Digite la opción de su preferencia: ");
